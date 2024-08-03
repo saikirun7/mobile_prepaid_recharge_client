@@ -1,0 +1,31 @@
+.container {
+    margin-top: 8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .avatar {
+    color: #000093;
+    fill: currentColor;
+  }
+  
+  .heading {
+    color: black;
+    font-weight: bold;
+  }
+  
+  .subheading {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .textField {
+    margin: 1rem 0;
+  }
+  
+  .submitButton {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
+  

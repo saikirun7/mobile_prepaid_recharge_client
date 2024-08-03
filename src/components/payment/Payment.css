@@ -1,0 +1,54 @@
+.container {
+    margin-top: 4rem;
+  }
+  
+  .paymentHeader {
+    color: #4a4a4a;
+    font-weight: bold;
+  }
+  
+  .paymentMethods {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  
+  .paymentMethodButton {
+    margin-right: 1rem;
+  }
+  
+  .paymentDetailsBox {
+    margin-top: 2rem;
+    border: 1px solid #ddd;
+    padding: 2rem;
+    border-radius: 8px;
+    max-width: 400px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .paymentDetailsBox:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  
+  .planDetailsPaper {
+    padding: 2rem;
+    width: 40%;
+    min-width: 300px;
+    background-color: #f5f5f5;
+  }
+  
+  .planDetailsHeader {
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .planDetailsText {
+    margin-bottom: 1rem;
+  }
+  
+  .proceedButton {
+    margin-top: 2rem;
+  }
+  
